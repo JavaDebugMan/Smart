@@ -1,7 +1,5 @@
 package com.javaman.smart.framwork.util;
 
-import com.javaman.smart.framwork.util.StringUtil;
-
 /**
  * @author pengzhe
  * @date 2018/2/26 18:07

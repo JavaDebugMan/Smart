@@ -11,7 +11,7 @@ import java.lang.annotation.Target;
  * @description 方法注解
  */
 
-@Target(ElementType.TYPE)
+@Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
 public @interface Action {
     /**

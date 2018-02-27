@@ -80,7 +80,7 @@ public final class ClassUtil {
                                     String jarEntryName = jarEntry.getName();
                                     if (jarEntryName.endsWith(".class")) {
                                         String className = jarEntryName.substring(0, jarEntryName.
-                                                lastIndexOf(",")).replaceAll("/", ".");
+                                                lastIndexOf(".")).replaceAll("/", ".");
                                         doAddClass(classSet, className);
                                     }
                                 }

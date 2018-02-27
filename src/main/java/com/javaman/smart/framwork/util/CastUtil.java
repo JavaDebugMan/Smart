@@ -1,4 +1,6 @@
-package com.javaman.smart.framwork.helper;
+package com.javaman.smart.framwork.util;
+
+import com.javaman.smart.framwork.util.StringUtil;
 
 /**
  * @author pengzhe

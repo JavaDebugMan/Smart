@@ -1,6 +1,7 @@
 package com.javaman.smart.framwork.helper;
 
 import com.javaman.smart.framwork.configconstant.ConfigConstant;
+import com.javaman.smart.framwork.util.PropsUtil;
 
 import java.util.Properties;
 

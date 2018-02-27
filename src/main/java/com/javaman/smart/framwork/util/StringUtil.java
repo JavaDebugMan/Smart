@@ -1,4 +1,4 @@
-package com.javaman.smart.framwork.helper;
+package com.javaman.smart.framwork.util;
 
 import org.apache.commons.lang3.StringUtils;
 
